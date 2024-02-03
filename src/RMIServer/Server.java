@@ -1,4 +1,4 @@
-package RMIServer.RMI;
+package RMIServer;
 
 import java.rmi.AlreadyBoundException;
 import java.rmi.RemoteException;
